@@ -6,7 +6,7 @@ Each furniture type has completely different shipping rules, yet the domain mode
 
 ## UML Class Diagram
 
-![Visitor Pattern UML Diagram](https://github.com/JLNerecina/Observer-Pattern/blob/main/Observer%20Pattern%20UML.png)
+![Visitor Pattern UML Diagram](https://github.com/JLNerecina/Visitor_Pattern/blob/main/Visitor%20Pattern%20UML%20Diagram.png)
 
 
 ## Why Use the Visitor Pattern Here?
