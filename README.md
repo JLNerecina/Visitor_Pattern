@@ -107,7 +107,7 @@ This example is intentionally practical and easy to follow — ideal for:
 No changes are required to existing furniture classes in either case.
 
 ## Note
-Programmer: John Lian R. Nerecina (3-BSCS-1)
-Institution: New Era University
-Github: @JLNerecina
-Last Update: March 14, 2026
+Programmer: John Lian R. Nerecina (3-BSCS-1)  
+Institution: New Era University   
+Github: @JLNerecina  
+Last Update: March 14, 2026    
